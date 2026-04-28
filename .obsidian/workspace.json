@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8fb359882e942c80",
+        "id": "a6d0827a088f129c",
         "type": "tabs",
         "children": [
           {
-            "id": "4c4ed73a1613d884",
+            "id": "550a5ed51d6dab81",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stories/US8/README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -95,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stories/US8/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour README"
+              "title": "Rétroliens"
             }
           },
           {
@@ -114,12 +109,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stories/US8/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de README"
+              "title": "Liens sortants"
             }
           },
           {
@@ -157,13 +151,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stories/US8/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de README"
+              "title": "Plan"
             }
           }
         ]
@@ -184,14 +177,18 @@
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "4c4ed73a1613d884",
+  "active": "550a5ed51d6dab81",
   "lastOpenFiles": [
+    "Stories/US10/README.md",
+    "Stories/US10/politique_mobile.pdf",
+    "Stories/US8/README.md",
+    "Stories/US9/rapport_final.pdf",
+    "Stories/US9/README.md",
     "Stories/US7/README.md",
     "Stories/US8/Nouveau dossier",
     "Stories/US8/1.png",
     "Stories/US11/README.md",
     "Stories/US3/README.md",
-    "Stories/US8/README.md",
     "Stories/US12",
     "Stories/Nouveau dossier",
     "Stories/US11",
@@ -201,9 +198,7 @@
     "Stories/US7/Nouveau dossier",
     "Stories/US5/README.md",
     "Stories/US6/README.md",
-    "Stories/US5/Nouveau dossier",
     "Stories/US5/1.png",
-    "Stories/US5/strings_findings.txt",
     "Stories/US1/README.md",
     "Stories/US2/README.md",
     "Stories/US3/3.png",
