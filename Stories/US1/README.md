@@ -1,4 +1,4 @@
-US 1 : Téléchargement et vérification de l’APK
+# US 1 : Téléchargement et vérification de l’APK
 
 DoD Chaque étudiant vérifie le hash avec sha256sum app.apk et documente le résultat.
 
