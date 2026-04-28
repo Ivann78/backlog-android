@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stories/US5/README.md",
+                "file": "Stories/US7/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stories/US5/README.md",
+                "file": "Stories/US7/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stories/US5/README.md",
+                "file": "Stories/US7/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stories/US5/README.md",
+                "file": "Stories/US7/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -200,8 +200,11 @@
   },
   "active": "4c4ed73a1613d884",
   "lastOpenFiles": [
-    "Stories/US6/README.md",
+    "Stories/US7/rebuilt_signed.apk",
+    "Stories/US7/Nouveau dossier",
     "Stories/US5/README.md",
+    "Stories/US7/README.md",
+    "Stories/US6/README.md",
     "Stories/US5/Nouveau dossier",
     "Stories/US5/1.png",
     "Stories/US3/README.md",
@@ -218,7 +221,6 @@
     "Stories/US3/1.png",
     "Stories/US2/mobsf_report.pdf",
     "Stories/US3/classes.dex",
-    "Stories/US3/AndroidManifest.xml",
     "Stories/US4/2.png",
     "Stories/US4/1.png",
     "Stories/US4/image.png",
